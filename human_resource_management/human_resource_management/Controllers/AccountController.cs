@@ -31,10 +31,10 @@ namespace human_resource_management.Controllers
             if (ModelState.IsValid)
             {
                 // Hash the password with SHA256
-                string hashedPassword = HashPassword(model.MatKhau);
+                //string hashedPassword = HashPassword(model.MatKhau);
 
                 // Find user with matching username and hashed password
-                var user = db.TaiKhoans.FirstOrDefault(u => u.tenTK == model.TenTK && u.matKhau == hashedPassword);
+                var user = db.TaiKhoans.FirstOrDefault(u => u.tenTK == model.TenTK && u.matKhau == model.MatKhau);
 
                 if (user != null)
                 {
@@ -73,9 +73,9 @@ namespace human_resource_management.Controllers
                         {
                             case "admin":
                                 return RedirectToAction("Index", "Home", new { area = "Admin" });
-                            case "hr":
+                            case "nhân sự":
                                 return RedirectToAction("Index", "Home", new { area = "HumanResource" });
-                            case "employee":
+                            case "nhanvien":
                                 return RedirectToAction("Index", "Home", new { area = "Employee" });
                             default:
                                 return RedirectToAction("Index", "Home");

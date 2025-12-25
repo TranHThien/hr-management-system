@@ -10,7 +10,7 @@ using human_resource_management.Filters;
 
 namespace human_resource_management.Areas.HumanResource.Controllers
 {
-    [RoleAuthorize("hr")]
+    [RoleAuthorize("nhân sự")]
     public class HomeController : Controller
     {
         private ModelDBContext db = new ModelDBContext();

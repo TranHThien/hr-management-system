@@ -877,7 +877,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Tìm kiếm nhân viên",
+					"name": "Tra cứu nhân viên",
 					"ownedViews": [
 						{
 							"_type": "UMLClassView",
@@ -26048,7 +26048,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Usecase_Admin",
+			"name": "Usecase_QuanTriHeThong",
 			"ownedElements": [
 				{
 					"_type": "UMLUseCaseDiagram",
@@ -26087,8 +26087,8 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 72,
-											"top": -260,
+											"left": -36,
+											"top": -266,
 											"height": 13
 										},
 										{
@@ -26099,8 +26099,8 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 153,
-											"top": 180,
+											"left": 99,
+											"top": 177,
 											"width": 75.97216796875,
 											"height": 13,
 											"text": "Nhân viên"
@@ -26114,11 +26114,11 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 72,
-											"top": -260,
-											"width": 183.04736328125,
+											"left": -36,
+											"top": -266,
+											"width": 196.03466796875,
 											"height": 13,
-											"text": "(from Usecase_Admin)"
+											"text": "(from Usecase_QuanTriHeThong)"
 										},
 										{
 											"_type": "LabelView",
@@ -26129,16 +26129,16 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 72,
-											"top": -260,
+											"left": -36,
+											"top": -266,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 148,
-									"top": 173,
+									"left": 94,
+									"top": 170,
 									"width": 85.97216796875,
 									"height": 25,
 									"stereotypeLabel": {
@@ -26166,8 +26166,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 36,
-									"top": -130,
+									"left": -18,
+									"top": -133,
 									"width": 10,
 									"height": 10
 								},
@@ -26183,8 +26183,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 36,
-									"top": -130,
+									"left": -18,
+									"top": -133,
 									"width": 10,
 									"height": 10
 								},
@@ -26200,8 +26200,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 36,
-									"top": -130,
+									"left": -18,
+									"top": -133,
 									"width": 10,
 									"height": 10
 								},
@@ -26217,8 +26217,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 36,
-									"top": -130,
+									"left": -18,
+									"top": -133,
 									"width": 10,
 									"height": 10
 								}
@@ -26226,8 +26226,8 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
-							"left": 148,
-							"top": 118,
+							"left": 94,
+							"top": 115,
 							"width": 84.97216796875,
 							"height": 80,
 							"nameCompartment": {
@@ -26277,8 +26277,8 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -208,
-											"top": -20,
+											"left": -332,
+											"top": -28,
 											"height": 13
 										},
 										{
@@ -26289,8 +26289,8 @@
 											},
 											"font": "Arial;13;1",
 											"parentStyle": true,
-											"left": 134,
-											"top": 332,
+											"left": 72,
+											"top": 328,
 											"width": 109.32275390625,
 											"height": 13,
 											"text": "Quản trị hệ thống"
@@ -26304,11 +26304,11 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -208,
-											"top": -20,
-											"width": 132.92626953125,
+											"left": -332,
+											"top": -28,
+											"width": 196.03466796875,
 											"height": 13,
-											"text": "(from Usecase_Admin)"
+											"text": "(from Usecase_QuanTriHeThong)"
 										},
 										{
 											"_type": "LabelView",
@@ -26319,16 +26319,16 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": -208,
-											"top": -20,
+											"left": -332,
+											"top": -28,
 											"height": 13,
 											"horizontalAlignment": 1
 										}
 									],
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": 129,
-									"top": 325,
+									"left": 67,
+									"top": 321,
 									"width": 119.32275390625,
 									"height": 25,
 									"stereotypeLabel": {
@@ -26356,8 +26356,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -104,
-									"top": -10,
+									"left": -166,
+									"top": -14,
 									"width": 10,
 									"height": 10
 								},
@@ -26373,8 +26373,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -104,
-									"top": -10,
+									"left": -166,
+									"top": -14,
 									"width": 10,
 									"height": 10
 								},
@@ -26390,8 +26390,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -104,
-									"top": -10,
+									"left": -166,
+									"top": -14,
 									"width": 10,
 									"height": 10
 								},
@@ -26407,8 +26407,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": true,
-									"left": -104,
-									"top": -10,
+									"left": -166,
+									"top": -14,
 									"width": 10,
 									"height": 10
 								}
@@ -26416,8 +26416,8 @@
 							"font": "Arial;13;0",
 							"parentStyle": false,
 							"containerChangeable": true,
-							"left": 129,
-							"top": 270,
+							"left": 67,
+							"top": 266,
 							"width": 118.32275390625,
 							"height": 80,
 							"nameCompartment": {
@@ -26460,8 +26460,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 174,
-									"top": 227,
+									"left": 116,
+									"top": 223,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -26482,8 +26482,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 159,
-									"top": 227,
+									"left": 101,
+									"top": 222,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -26504,8 +26504,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 203,
-									"top": 228,
+									"left": 145,
+									"top": 224,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -26524,7 +26524,7 @@
 								"$ref": "AAAAAAGbMSISaUDjLKE="
 							},
 							"lineStyle": 1,
-							"points": "189:269;189:199",
+							"points": "129:265;133:196",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGbMSJQ9UEPVqA="
@@ -26594,9 +26594,9 @@
 											"parentStyle": true,
 											"left": -52,
 											"top": 66,
-											"width": 132.92626953125,
+											"width": 196.03466796875,
 											"height": 13,
-											"text": "(from Usecase_Admin)"
+											"text": "(from Usecase_QuanTriHeThong)"
 										},
 										{
 											"_type": "LabelView",
@@ -26617,7 +26617,7 @@
 									"parentStyle": true,
 									"left": 259.5,
 									"top": 299,
-									"width": 118,
+									"width": 118.3544921875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSJ2wkEkbzk="
@@ -26768,8 +26768,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 283,
-									"top": 289,
+									"left": 210,
+									"top": 287,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -26790,8 +26790,8 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 283,
-									"top": 274,
+									"left": 211,
+									"top": 272,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -26812,8 +26812,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 282,
-									"top": 318,
+									"left": 209,
+									"top": 316,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -26834,8 +26834,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 274,
-									"top": 289,
+									"left": 212,
+									"top": 287,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -26856,8 +26856,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 276,
-									"top": 276,
+									"left": 214,
+									"top": 274,
 									"height": 13,
 									"alpha": 0.7853981633974483,
 									"distance": 40,
@@ -26878,8 +26878,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 269,
-									"top": 316,
+									"left": 207,
+									"top": 314,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -26900,8 +26900,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 292,
-									"top": 289,
+									"left": 208,
+									"top": 287,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
@@ -26921,8 +26921,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 290,
-									"top": 276,
+									"left": 206,
+									"top": 274,
 									"height": 13,
 									"alpha": -0.7853981633974483,
 									"distance": 40,
@@ -26942,8 +26942,8 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 296,
-									"top": 317,
+									"left": 212,
+									"top": 315,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -26991,7 +26991,7 @@
 								"$ref": "AAAAAAGbMSISaUDjLKE="
 							},
 							"lineStyle": 1,
-							"points": "248:310;318:311",
+							"points": "186:308;234:309",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGbMSKncEFUIUA="
@@ -27086,9 +27086,9 @@
 											"parentStyle": true,
 											"left": -164,
 											"top": 58,
-											"width": 132.92626953125,
+											"width": 196.03466796875,
 											"height": 13,
-											"text": "(from Usecase_Admin)"
+											"text": "(from Usecase_QuanTriHeThong)"
 										},
 										{
 											"_type": "LabelView",
@@ -27109,7 +27109,7 @@
 									"parentStyle": true,
 									"left": 486,
 									"top": 211,
-									"width": 104,
+									"width": 105.34814453125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSK+KkIJ29Y="
@@ -27296,9 +27296,9 @@
 											"parentStyle": true,
 											"left": -200,
 											"top": 34,
-											"width": 132.92626953125,
+											"width": 196.03466796875,
 											"height": 13,
-											"text": "(from Usecase_Admin)"
+											"text": "(from Usecase_QuanTriHeThong)"
 										},
 										{
 											"_type": "LabelView",
@@ -27319,7 +27319,7 @@
 									"parentStyle": true,
 									"left": 520,
 									"top": 280,
-									"width": 95,
+									"width": 95.99169921875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSLDxkJUvtU="
@@ -27506,9 +27506,9 @@
 											"parentStyle": true,
 											"left": -250,
 											"top": -52,
-											"width": 132.92626953125,
+											"width": 196.03466796875,
 											"height": 13,
-											"text": "(from Usecase_Admin)"
+											"text": "(from Usecase_QuanTriHeThong)"
 										},
 										{
 											"_type": "LabelView",
@@ -27529,7 +27529,7 @@
 									"parentStyle": true,
 									"left": 484.5,
 									"top": 356,
-									"width": 161,
+									"width": 161.5439453125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSLJ/kKfXGc="
@@ -27716,9 +27716,9 @@
 											"parentStyle": true,
 											"left": -310,
 											"top": 24,
-											"width": 132.92626953125,
+											"width": 196.03466796875,
 											"height": 13,
-											"text": "(from Usecase_Admin)"
+											"text": "(from Usecase_QuanTriHeThong)"
 										},
 										{
 											"_type": "LabelView",
@@ -27739,7 +27739,7 @@
 									"parentStyle": true,
 									"left": 495.5,
 									"top": 439,
-									"width": 118,
+									"width": 118.38623046875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSMw8ETBcfE="
@@ -28428,7 +28428,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "Usecase_NhanSu",
+			"name": "Usecase_ChuyenVienNhanSu",
 			"ownedElements": [
 				{
 					"_type": "UMLUseCaseDiagram",
@@ -28496,9 +28496,9 @@
 											"parentStyle": true,
 											"left": 620,
 											"top": 130,
-											"width": 180.64794921875,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -28686,9 +28686,9 @@
 											"parentStyle": true,
 											"left": 330,
 											"top": 136,
-											"width": 180.64794921875,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -28974,9 +28974,9 @@
 											"parentStyle": true,
 											"left": 188,
 											"top": 400,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -28997,7 +28997,7 @@
 									"parentStyle": true,
 									"left": 776.5,
 									"top": 353,
-									"width": 121,
+									"width": 121.96630859375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSYQ+oZASOY="
@@ -29184,9 +29184,9 @@
 											"parentStyle": true,
 											"left": 160,
 											"top": 494,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -29207,7 +29207,7 @@
 									"parentStyle": true,
 									"left": 772,
 									"top": 497,
-									"width": 98,
+									"width": 99.4384765625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSYYOYZtpVQ="
@@ -29394,9 +29394,9 @@
 											"parentStyle": true,
 											"left": -80,
 											"top": 492,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -29417,7 +29417,7 @@
 									"parentStyle": true,
 									"left": 679.5,
 									"top": 621,
-									"width": 131,
+									"width": 132.0654296875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSYeCYaaAys="
@@ -30450,9 +30450,9 @@
 											"parentStyle": true,
 											"left": -98,
 											"top": 86,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -30473,7 +30473,7 @@
 									"parentStyle": true,
 									"left": 1021,
 									"top": 285,
-									"width": 108,
+									"width": 108.9599609375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSbsm4wH80g="
@@ -30660,9 +30660,9 @@
 											"parentStyle": true,
 											"left": -166,
 											"top": 48,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -30683,7 +30683,7 @@
 									"parentStyle": true,
 									"left": 1036,
 									"top": 346,
-									"width": 98,
+									"width": 99.603515625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSbxmYyOjLs="
@@ -30870,9 +30870,9 @@
 											"parentStyle": true,
 											"left": -254,
 											"top": 8,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -30893,7 +30893,7 @@
 									"parentStyle": true,
 									"left": 1010.5,
 									"top": 411,
-									"width": 121,
+									"width": 121.998046875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSb3TY0eE9w="
@@ -31374,9 +31374,9 @@
 											"parentStyle": true,
 											"left": -124,
 											"top": -76,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -31397,7 +31397,7 @@
 									"parentStyle": true,
 									"left": 1010.5,
 									"top": 464,
-									"width": 78,
+									"width": 79.19580078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSjtwqeQkHk="
@@ -31584,9 +31584,9 @@
 											"parentStyle": true,
 											"left": -234,
 											"top": -112,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -31607,7 +31607,7 @@
 									"parentStyle": true,
 									"left": 1007.5,
 									"top": 520,
-									"width": 115,
+									"width": 116.0693359375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSj9RqgXiQg="
@@ -31794,9 +31794,9 @@
 											"parentStyle": true,
 											"left": -256,
 											"top": -176,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -31817,7 +31817,7 @@
 									"parentStyle": true,
 									"left": 1005.5,
 									"top": 591,
-									"width": 147,
+									"width": 147.12841796875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSkEd6inIX8="
@@ -32298,9 +32298,9 @@
 											"parentStyle": true,
 											"left": -60,
 											"top": -30,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -32321,7 +32321,7 @@
 									"parentStyle": true,
 									"left": 1008.5,
 									"top": 657.5,
-									"width": 232,
+									"width": 233.158203125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSnXW7hmk1s="
@@ -32508,9 +32508,9 @@
 											"parentStyle": true,
 											"left": -214,
 											"top": 52,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -32531,7 +32531,7 @@
 									"parentStyle": true,
 									"left": 942,
 									"top": 766.5,
-									"width": 217,
+									"width": 217.3271484375,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSnfOLjt3eI="
@@ -32718,9 +32718,9 @@
 											"parentStyle": true,
 											"left": -470,
 											"top": 30,
-											"width": 143.05712890625,
+											"width": 213.6494140625,
 											"height": 13,
-											"text": "(from Usecase_NhanSu)"
+											"text": "(from Usecase_ChuyenVienNhanSu)"
 										},
 										{
 											"_type": "LabelView",
@@ -32741,7 +32741,7 @@
 									"parentStyle": true,
 									"left": 820,
 									"top": 835,
-									"width": 231,
+									"width": 231.72998046875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGbMSnoLrl04us="
@@ -52676,7 +52676,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "SequenceDiagram_TimKiemNhanVien",
+			"name": "SequenceDiagram_TraCuuNhanVien",
 			"ownedElements": [
 				{
 					"_type": "UMLInteraction",
@@ -52692,7 +52692,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGa/bQfsssZB+M="
 							},
-							"name": "BieuDoTrinhTu_TimKiemNV",
+							"name": "BieuDoTrinhTu_TraCuuNhanVien",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -52712,11 +52712,11 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 86.55908203125,
+											"left": 88.72998046875,
 											"top": 124,
-											"width": 158.21533203125,
+											"width": 193.41943359375,
 											"height": 13,
-											"text": "BieuDoTrinhTu_TimKiemNV"
+											"text": "BieuDoTrinhTu_TraCuuNhanVien"
 										},
 										{
 											"_type": "LabelView",
@@ -52728,7 +52728,7 @@
 											"parentStyle": true,
 											"left": 69,
 											"top": 124,
-											"width": 11.55908203125,
+											"width": 13.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -52791,7 +52791,7 @@
 													"top": 47,
 													"width": 127.0859375,
 													"height": 13,
-													"text": "Interface_TimKiem"
+													"text": "Interface_TraCuu"
 												},
 												{
 													"_type": "LabelView",
@@ -52903,7 +52903,7 @@
 												"$ref": "AAAAAAGa/bQfssslggo="
 											},
 											"edgePosition": 1,
-											"text": "1 : Chọn chức năng Tìm Kiếm"
+											"text": "1 : Chọn chức năng tra cứu"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -53033,7 +53033,7 @@
 													"top": 47,
 													"width": 131.39599609375,
 													"height": 13,
-													"text": "Controler_TimKiem"
+													"text": "Controler_TraCuu"
 												},
 												{
 													"_type": "LabelView",
@@ -53259,7 +53259,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 121.61181640625,
+											"left": 123.07177734375,
 											"top": 373,
 											"height": 13
 										},
@@ -53273,7 +53273,7 @@
 											"parentStyle": true,
 											"left": 99,
 											"top": 373,
-											"width": 16.61181640625,
+											"width": 18.07177734375,
 											"height": 13,
 											"text": "opt"
 										},
@@ -53307,7 +53307,7 @@
 															"parentStyle": true,
 															"left": 114,
 															"top": 406,
-															"width": 87.38818359375,
+															"width": 94.49755859375,
 															"height": 13,
 															"text": "[Tìm thấy hồ sơ]"
 														}
@@ -53342,7 +53342,7 @@
 															"parentStyle": true,
 															"left": 114,
 															"top": 482,
-															"width": 121.697265625,
+															"width": 131.37109375,
 															"height": 13,
 															"text": "[Không tìm thấy hồ sơ]"
 														}
@@ -53530,7 +53530,7 @@
 												"$ref": "AAAAAAGa/bQfsstFmDs="
 											},
 											"edgePosition": 1,
-											"text": "3 : Nhập tiêu chí Tìm Kiếm(Tên, Mã, PB,...)"
+											"text": "3 : Nhập tiêu chí Tra cứu(Tên, Mã, PB,...)"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -53647,7 +53647,7 @@
 												"$ref": "AAAAAAGa/bQfsstKM4c="
 											},
 											"edgePosition": 1,
-											"text": "4 : Xử lý tiêu chí Tìm Kiếm"
+											"text": "4 : Xử lý tiêu chí tra cứu"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -54123,7 +54123,7 @@
 												"$ref": "AAAAAAGa/bQfs8tgHI8="
 											},
 											"edgePosition": 1,
-											"text": "7 : Trả kết quả tìm kiếm"
+											"text": "7 : Trả kết quả tra cứu"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -54453,7 +54453,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGa/bQfsssZB+M="
 							},
-							"name": "Chọn chức năng Tìm Kiếm",
+							"name": "Chọn chức năng tra cứu",
 							"source": {
 								"$ref": "AAAAAAGa/bQfs8t779o="
 							},
@@ -54488,7 +54488,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGa/bQfsssZB+M="
 							},
-							"name": "Nhập tiêu chí Tìm Kiếm",
+							"name": "Nhập tiêu chí Tra cứu",
 							"source": {
 								"$ref": "AAAAAAGa/bQfs8t779o="
 							},
@@ -54507,7 +54507,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGa/bQfsssZB+M="
 							},
-							"name": "Xử lý tiêu chí Tìm Kiếm",
+							"name": "Xử lý tiêu chí tra cứu",
 							"source": {
 								"$ref": "AAAAAAGa/bQfs8t4o74="
 							},
@@ -54559,7 +54559,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGa/bQfsssZB+M="
 							},
-							"name": "Trả kết quả tìm kiếm",
+							"name": "Trả kết quả tra cứu",
 							"source": {
 								"$ref": "AAAAAAGa/bQfs8t5W28="
 							},
@@ -54616,7 +54616,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGa/bQfsssZB+M="
 							},
-							"name": "Interface_TimKiem",
+							"name": "Interface_TraCuu",
 							"represent": {
 								"$ref": "AAAAAAGa/bQfs8uAkII="
 							},
@@ -54628,7 +54628,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGa/bQfsssZB+M="
 							},
-							"name": "Controler_TimKiem",
+							"name": "Controler_TraCuu",
 							"represent": {
 								"$ref": "AAAAAAGa/bQfs8uLVY0="
 							},
@@ -57649,7 +57649,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "CommunicationDiagram_TimKiemNhanVien",
+			"name": "CommunicationDiagram_TraCuuNhanVien",
 			"ownedElements": [
 				{
 					"_type": "UMLInteraction",
@@ -57665,7 +57665,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGa/bR43s6eiCw="
 							},
-							"name": "BieuDoGiaoTiep_TimKiemNV",
+							"name": "BieuDoGiaoTiep_TraCuuNhanVien",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -57685,11 +57685,11 @@
 											},
 											"font": "Arial;13;0",
 											"parentStyle": true,
-											"left": 321.55908203125,
+											"left": 323.72998046875,
 											"top": 272,
-											"width": 164.4423828125,
+											"width": 201.86181640625,
 											"height": 13,
-											"text": "BieuDoGiaoTiep_TimKiemNV"
+											"text": "BieuDoGiaoTiep_TraCuuNhanVien"
 										},
 										{
 											"_type": "LabelView",
@@ -57701,7 +57701,7 @@
 											"parentStyle": true,
 											"left": 304,
 											"top": 272,
-											"width": 11.55908203125,
+											"width": 13.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -57871,7 +57871,7 @@
 													"top": 347,
 													"width": 117.0859375,
 													"height": 13,
-													"text": "Interface_TimKiem"
+													"text": "Interface_TraCuu"
 												},
 												{
 													"_type": "LabelView",
@@ -59208,7 +59208,7 @@
 													"top": 347,
 													"width": 121.39599609375,
 													"height": 13,
-													"text": "Controler_TimKiem"
+													"text": "Controler_TraCuu"
 												},
 												{
 													"_type": "LabelView",
@@ -60388,7 +60388,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "1 : Chọn chức năng Tìm Kiếm"
+											"text": "1 : Chọn chức năng tra cứu"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -60562,7 +60562,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "3 : Nhập tiêu chí Tìm Kiếm(Tên, Mã, PB,...)"
+											"text": "3 : Nhập tiêu chí Tra cứu(Tên, Mã, PB,...)"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -60649,7 +60649,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "4 : Xử lý tiêu chí Tìm Kiếm"
+											"text": "4 : Xử lý tiêu chí tra cứu"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -60910,7 +60910,7 @@
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 10,
-											"text": "7 : Trả kết quả tìm kiếm"
+											"text": "7 : Trả kết quả tra cứu"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -73715,7 +73715,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGbRj5EHo8kzx4="
 					},
-					"name": "Tìm kiếm nhân viên",
+					"name": "Tra cứu nhân viên",
 					"ownedViews": [
 						{
 							"_type": "UMLClassView",
@@ -75038,7 +75038,7 @@
 											"top": 207,
 											"width": 208.5302734375,
 											"height": 13,
-											"text": "GiaoDienTimKiem"
+											"text": "GiaoDienTraCuu"
 										},
 										{
 											"_type": "LabelView",
@@ -75266,7 +75266,7 @@
 										"$ref": "AAAAAAGbU+nFnm6lKPc="
 									},
 									"edgePosition": 1,
-									"text": "+yêu cầu lấy dữ liệu tìm kiếm"
+									"text": "+yêu cầu lấy dữ liệu tra cứu"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -85733,7 +85733,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGbRj5EHo8kzx4="
 					},
-					"name": "GiaoDienTimKiem",
+					"name": "GiaoDienTraCuu",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
@@ -85741,7 +85741,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGbU+kD2mwWfTk="
 							},
-							"name": "yêu cầu lấy dữ liệu tìm kiếm",
+							"name": "yêu cầu lấy dữ liệu tra cứu",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGbU+nFnW6iT1w=",
